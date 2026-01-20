@@ -1,98 +1,127 @@
-<h1 align="center">Hi 👋, I'm Deblina Roy</h1>
-
-<h3 align="center">
-Full Stack MERN Developer | Backend-Focused | NestJS Enthusiast
-</h3>
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#8b5cf6;">Deblina Roy</span>
+</h1>
 
 <p align="center">
-I build scalable, secure, and production-ready web applications using 
-<strong>MERN stack, Next.js, and NestJS</strong>, with a strong focus on 
-clean architecture, authentication, and performance optimization.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Backend+Developer+%7C+NestJS+Enthusiast;Building+Scalable+Web+Apps;Clean+Code+%7C+Secure+APIs+%7C+Real-Time+Systems" />
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=deblina00&label=Profile%20views&color=0e75b6&style=flat" alt="deblina00" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=deblina00&label=Profile%20Views&color=8b5cf6&style=flat" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=deblina00&theme=dracula&row=1&column=6" alt="deblina00" />
+---
+
+<p align="center">
+✨ I craft <strong>scalable, secure, and production-ready web applications</strong><br/>
+using <strong>MERN Stack, Next.js, and NestJS</strong><br/>
+with a strong focus on <strong>backend architecture & performance</strong>.
+</p>
+
+---
+
+## 💫 About Me
+
+- 🔭 Currently building  
+  **• MERN Stack LMS Platform**  
+  **• NestJS + Next.js Blog Application**
+
+- 🌱 Learning  
+  **NestJS (Advanced), Docker, AWS**
+
+- 💼 Open to  
+  **Entry-Level MERN Stack / Backend Developer roles**
+
+- 💬 Ask me about  
+  **Node.js, Express, MongoDB, JWT, Redis, NestJS**
+
+- 📫 Reach me  
+  **✉️ roydeblinasec@gmail.com**
+
+- ⚡ Fun fact  
+  *“Every bug is just a hidden lesson waiting to be unlocked.”* 🚀
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/deblina-roy01">
+    <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:roydeblinasec@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EC4899?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 🚀 About Me
+## 🛠️ Tech Stack
 
-- 🔭 Currently working on:
-  - **MERN Stack LMS Platform**
-  - **NestJS + Next.js Blog Application**
+### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,c,cpp" />
+</p>
 
-- 🌱 Currently learning:
-  - **Advanced NestJS, Docker, AWS**
+### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,next,redux,tailwind,bootstrap,vite" />
+</p>
 
-- 💼 Actively looking for:
-  - **Entry-Level MERN Stack / Backend Developer roles**
+### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,redis,prisma" />
+</p>
 
-- 💬 Ask me about:
-  - **Node.js, Express, MongoDB, JWT, NestJS, REST APIs**
-
-- 📫 Reach me at:
-  - **✉️ roydeblinasec@gmail.com**
-
-- ⚡ Fun fact:
-  - *“Code is like a puzzle — every bug is just another clue to the solution.”* 🚀
-
----
-
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/deblina-roy01" target="_blank">
-    <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="LinkedIn"
-      height="30"
-      width="40" />
-  </a>
+### ☁️ DevOps & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,render,postman,jest" />
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+## 🚀 Featured Projects
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40"/>
+✨ **Networx – Professional Networking Platform**  
+• Full-stack MERN app inspired by LinkedIn  
+• JWT Auth (User/Recruiter/Admin), Admin Dashboard  
+• Real-time chat with Socket.io  
+🔗 https://networx-social-networking-app.onrender.com/
+
+✨ **Serenest – Multi-Vendor E-Commerce Platform**  
+• Role-based dashboards (User/Seller/Admin)  
+• Razorpay payments, Redis caching, Cloudinary  
+🔗 https://multivendor-ecommerce-in-ejs.onrender.com/
+
+✨ **NestJS Blog API**  
+• Secure CRUD API with JWT & Swagger  
+• Modular architecture & DTO validation  
+🔗 https://github.com/deblina00/nestjs-blog-auth-crud.git
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deblina00&show_icons=true&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deblina00&layout=compact&theme=radical&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=deblina00&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🏆 Achievements
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=deblina00&show_icons=true&theme=dracula&hide_border=false"
-    height="150"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=deblina00&layout=compact&theme=dracula&hide_border=false"
-    height="150"
-  />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=deblina00&theme=radical&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
-### ✍️ Random Dev Quote
+## ✍️ Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
@@ -101,5 +130,6 @@ clean architecture, authentication, and performance optimization.
 ---
 
 <p align="center">
-⭐ If you like my work, consider giving a star — it really motivates me!
+🌸 <strong>Always learning. Always building.</strong> 🌸<br/>
+⭐ Star my repos if you like my work!
 </p>
