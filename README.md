@@ -108,7 +108,7 @@ with a strong focus on <strong>backend architecture & performance</strong>.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=deblina00&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deblina00&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -116,7 +116,7 @@ with a strong focus on <strong>backend architecture & performance</strong>.
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deblina00&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=deblina00&theme=radical&no-frame=true&margin-w=15" />
 </p>
 
 ---
