@@ -75,7 +75,8 @@ with a strong focus on <strong>backend architecture & performance</strong>.
 
 ### ☁️ DevOps & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,render,postman,jest" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,postman,jest" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
 </p>
 
 ---
